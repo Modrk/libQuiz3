@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+          "id": 0,
+          "filename": "01.jpg",
+          "correct": 0,
+          "explanation": "Probably a species of Mycena, the white gills, lack of nipple and brittle stipe give these away."
+        },
+        {
+          "id": 1,
+          "filename": "02.jpg",
+          "correct": 1,
+          "explanation": "The dark brown cap color shows these have had wet conditions."
+        },
+        {
+          "id": 2,
+          "filename": "03.jpg",
+          "correct": 1,
+          "explanation": "The nipple on these wet specimens is swollen, making them somewhat special."
+        },
+        {
+          "id": 3,
+          "filename": "04.jpg",
+          "correct": 0,
+          "explanation": "Looks like a species of Panaeolus, lots of traits are off here (color, shape, nipple etc.). Notice where they are lying, a forrest floor, typically not the place to find libs."
+        },
+        {
+          "id": 4,
+          "filename": "05.jpg",
+          "correct": 1,
+          "explanation": "A nice little catch, classically looking libs."
+        },
+        {
+          "id": 5,
+          "filename": "06.jpg",
+          "correct": 0,
+          "explanation": "Probably a species of Mycena, notice the gills are white on these."
+        },
+        {
+          "id": 6,
+          "filename": "07.jpg",
+          "correct": 1,
+          "explanation": "Beauties like these should not be left behind."
+        },
+        {
+          "id": 7,
+          "filename": "08.jpg",
+          "correct": 0,
+          "explanation": "Panaeolus of some kind. These are too dark, almost black. The stipe especially should not be so dark."
+        },
+        {
+          "id": 8,
+          "filename": "09.jpg",
+          "correct": 0,
+          "explanation": "These could be Galerina, Conocybe or Mycena, much too yellow and brittle."
+        },
+        {
+          "id": 9,
+          "filename": "10.jpg",
+          "correct": 0,
+          "explanation": "Probably at least two species here, colors are way off on both cap and stipe. Probably Galerina/Conocybe/Mycena."
+        },
+        {
+          "id": 10,
+          "filename": "11.jpg",
+          "correct": 0,
+          "explanation": "Maybe Panaeolus. The shape of the cap and lack of nipple give these away."
+        },
+        {
+          "id": 11,
+          "filename": "12.jpg",
+          "correct": 1,
+          "explanation": "A nice catch of some classic libs. Don't leave such beauties standing."
+        },
+        {
+          "id": 12,
+          "filename": "13.jpg",
+          "correct": 0,
+          "explanation": "Panaeolus species. Notice the stipe is too dark and the cap shape is too round, also no nipple on these."
+        },
+        {
+          "id": 13,
+          "filename": "14.jpg",
+          "correct": 0,
+          "explanation": "The color of both the stipe and gills are off on all of them. Probably several species of Mycena/Galerina/Conocybe or similar."
+        },
+        {
+          "id": 14,
+          "filename": "15.jpg",
+          "correct": 0,
+          "explanation": "Much too yellow/orange in color both on cap, gills and stipe. Also no nipple. Probably something like Conocybe/Galerina."
+        },
+        {
+          "id": 15,
+          "filename": "16.jpg",
+          "correct": 1,
+          "explanation": "The milky white caps shows these have had dry conditions. Notice the distinct bell shape and nipples."
+        },
+        {
+          "id": 16,
+          "filename": "17.jpg",
+          "correct": 1,
+          "explanation": "Clear nipples and bell shape, and the stripes on the edge of caps shows we are dealing with the right kind here."
+        },
+        {
+          "id": 17,
+          "filename": "18.jpg",
+          "correct": 1,
+          "explanation": "Notice the swollen nipple and the stripes on the cap, this indicates wet conditions. The darker edge of the cap and the pale brown stipe are good signs."
+        },
+        {
+          "id": 18,
+          "filename": "19.jpg",
+          "correct": 1,
+          "explanation": "These are lovely curled specimens, notice the nipples, the dark cap edge, and the white stipes with an almost purple/blueish glow. Looking magical indeed."
+        },
+        {
+          "id": 19,
+          "filename": "20.jpg",
+          "correct": 1,
+          "explanation": "Stipe is light colored and fibrous. Cap is bell shaped, has a nipple and a darker edge."
+        },
+        {
+          "id": 20,
+          "filename": "21.jpg",
+          "correct": 1,
+          "explanation": "The cap is unusually yellow, but cap shape and nipple is good, also a white curled stipe."
+        },
+        {
+          "id": 21,
+          "filename": "22.jpg",
+          "correct": 1,
+          "explanation": "A nice cluster you should not leave behind."
+        },
+        {
+          "id": 22,
+          "filename": "23.jpg",
+          "correct": 1,
+          "explanation": "This is very white in color, which makes it unusual. It has a nipple, bell shaped cap, white bended stipe. Albino lib."
+        },
+        {
+          "id": 23,
+          "filename": "24.jpg",
+          "correct": 1,
+          "explanation": "These are just unusually large specimens, with unusually thick and short stipes. Notice the blueish color on the stipes."
+        },
+        {
+          "id": 24,
+          "filename": "25.jpg",
+          "correct": 1,
+          "explanation": "Short stipes, possibly a little dried, not much nipple. None the less undoubtedly libs."
+        },
+        {
+          "id": 25,
+          "filename": "26.jpg",
+          "correct": 1,
+          "explanation": "Clear nipple, strangely round cap shape, stipe seems to be stained by its own spores. Still it's a good one."
+        },
+        {
+          "id": 26,
+          "filename": "27.jpg",
+          "correct": 1,
+          "explanation": "Unusually straight and dark stipe (possibly shaded), and the cap is very open. Otherwise it matches what we want, even has a clear nipple."
+        },
+        {
+          "id": 27,
+          "filename": "28.jpg",
+          "correct": 1,
+          "explanation": "No nipples (very swollen due to wet conditions) but these are undoubtedly libs."
+        },
+        {
+          "id": 28,
+          "filename": "29.jpg",
+          "correct": 0,
+          "explanation": "Protostropharia semiglobata is probably the species for these. They are very slimy."
+        },
+        {
+          "id": 29,
+          "filename": "30.jpg",
+          "correct": 1,
+          "explanation": "Younger specimens but still libs."
+        },
+        {
+          "id": 30,
+          "filename": "31.jpg",
+          "correct": 1,
+          "explanation": "A nice big one. Notice the unusually light cap color."
+        },
+        {
+          "id": 31,
+          "filename": "32.jpg",
+          "correct": 0,
+          "explanation": "Classic Panaeolus. Notice the white on the edge of the caps, not something you see on libs."
+        },
+        {
+          "id": 32,
+          "filename": "33.jpg",
+          "correct": 1,
+          "explanation": "Big specimens with open/broad cap."
+        },
+        {
+          "id": 33,
+          "filename": "34.jpg",
+          "correct": 0,
+          "explanation": "This one seems to have a kind of growth failure on top, appearing like a huge nipple. Notice the non-fibrous stipe."
+        },
+        {
+          "id": 34,
+          "filename": "35.jpg",
+          "correct": 0,
+          "explanation": "Group of big Panaeolus specimens."
+        },
+        {
+          "id": 35,
+          "filename": "36.jpg",
+          "correct": 0,
+          "explanation": "Probably both Mycena and Panaeolus on this photo. Mycena have white gills and Panaeolus have no nipples and not a bell shaped cap."
+        },
+        {
+          "id": 36,
+          "filename": "37.jpg",
+          "correct": 0,
+          "explanation": "Protostropharia semiglobata is probably the species for these. They are very slimy."
+        },
+        {
+          "id": 37,
+          "filename": "38.jpg",
+          "correct": 0,
+          "explanation": "Small Panaeolus, and perhaps there are two species present on this photo."
+        },
+        {
+          "id": 38,
+          "filename": "39.jpg",
+          "correct": 1,
+          "explanation": "Cluster of libs, some are older specimens, very open/broad caps."
+        },
+        {
+          "id": 39,
+          "filename": "40.jpg",
+          "correct": 0,
+          "explanation": "Classic Panaeolus but these can cheat the untrained eye."
+        }
+    ]
+}
